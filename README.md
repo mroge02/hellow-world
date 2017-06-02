@@ -1,2 +1,2 @@
-# hellow-world
-A test
+# hello-world
+A test to fix misspelled project name.
